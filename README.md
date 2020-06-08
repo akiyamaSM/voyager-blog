@@ -15,7 +15,7 @@ Laraberg - https://github.com/VanOns/laraberg
 
 - Add the following to your composer.json file
     - Run `composer require clevyr/voyager-blog`
-    - Run `php artisan voyagerblog:install`
+    - Run `php artisan voyager-blog:install`
 
 - Add the following to your voyager.php configuration file
 
